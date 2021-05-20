@@ -1,5 +1,5 @@
 - 👋 Hola, Mi nombre es Rodolfo Cipagauta.
-- 👀 Mi interés es el Software, mi pasión es la creación de Sofyware que resuelva necesidades reales de la sociedad. 
+- 👀 Mi interés es el Software, mi pasión es la creación de Software que resuelva necesidades reales de la sociedad y/o organizaciones. 
 - 🌱 Actualmente estoy aprendiendo y practicando ANGULAR ...
 - 💞️ Me interesan proyectos en tecnologías con ANGULAR, REACT y MICROSERVICIOS JAVA ...
 - 📫 rodolfocipagauta@gmail.com
